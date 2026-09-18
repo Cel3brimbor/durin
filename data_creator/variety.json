@@ -1,0 +1,1774 @@
+{
+  "data": [
+    {
+      "opened_tabs": ["Python for Beginners", "Data Structures in Python", "Pandas Tutorial", "Machine Learning Basics", "NumPy Guide"],
+      "new_tab": "TensorFlow Official Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Italian Cooking Recipes", "Homemade Pasta Guide", "Sourdough Baking Tips"],
+      "new_tab": "Car Repair for Beginners",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["World War II History", "Ancient Rome Artifacts", "Medieval Castles Guide", "Renaissance Paintings", "Ancient Greece Philosophy", "Viking Expeditions"],
+      "new_tab": "History of the Aztecs",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Quantum Physics Basics", "Relativity Explained", "Particle Physics News", "Astrophysics Research"],
+      "new_tab": "Web Development with React",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Indoor Gardening Tips", "Vegetable Garden Planning", "Herb Growing Guide", "Composting at Home", "Organic Pest Control", "Soil Health Tips", "Flower Gardening Basics"],
+      "new_tab": "Hydroponics for Beginners",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["JavaScript ES6 Tutorial", "React Hooks Guide"],
+      "new_tab": "Baking Cookies Recipe",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Civil War Battles", "American Revolution Facts", "History of Democracy", "Ancient Mesopotamia"],
+      "new_tab": "Modern European Politics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["TensorFlow Neural Networks", "Deep Learning with Keras", "AI Research Papers", "Python for Data Science", "Data Visualization with Matplotlib", "NumPy Basics", "Machine Learning Algorithms", "Pandas Data Analysis"],
+      "new_tab": "Scikit-Learn Tutorial",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["French Cooking Techniques", "Homemade Pizza Guide", "Dessert Recipes"],
+      "new_tab": "Sushi Making Tutorial",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Astronomy News 2025", "Mars Rover Updates", "Black Hole Research", "Exoplanet Discoveries"],
+      "new_tab": "Gardening for Beginners",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Container Gardening Ideas", "Soil Preparation Tips", "Organic Fertilizers"],
+      "new_tab": "Yoga for Stress Relief",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Django Web Framework Guide", "Flask vs Django Comparison", "Python Web Development", "REST API with FastAPI", "Web Scraping with Python"],
+      "new_tab": "GraphQL API Tutorial",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Vegan Meal Prep Ideas", "Healthy Smoothie Recipes"],
+      "new_tab": "Quantum Computing Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Egypt Pyramids", "Mesopotamian Civilization", "Archaeology News", "World War I Overview", "Roman Empire Facts", "Medieval Art History"],
+      "new_tab": "History of Ancient China",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Climate Change Science", "Renewable Energy Trends", "Environmental Research", "Oceanography News"],
+      "new_tab": "HTML5 Tutorial",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Rose Gardening Guide", "Pruning Fruit Trees", "Composting at Home", "Herb Gardening Basics", "Vegetable Planting Calendar"],
+      "new_tab": "Flower Arrangement Tips",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Node.js Backend Tutorial", "Express.js Guide"],
+      "new_tab": "Italian Cooking Recipes",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["History of the Roman Empire", "Viking Expeditions", "Ancient China Dynasties", "Cold War History", "Industrial Revolution Facts", "History of Science", "Ancient Greece Artifacts"],
+      "new_tab": "Modern Physics Discoveries",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Python for Machine Learning", "Data Visualization with Matplotlib", "NumPy Tutorial"],
+      "new_tab": "TensorFlow Model Deployment",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Baking Bread at Home", "Cake Decorating Tips", "Pastry Chef Techniques", "Grilling BBQ Recipes"],
+      "new_tab": "Vegan Dessert Recipes",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Space Telescope Updates", "Exoplanet Discoveries", "Astrophysics Basics"],
+      "new_tab": "Urban Gardening Ideas",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Organic Gardening Guide", "Indoor Herb Gardening", "Vegetable Planting Calendar", "Composting Guide", "Gardening for Pollinators", "Soil Testing Tips", "Hydroponics Tutorial", "Succulent Care Guide"],
+      "new_tab": "Car Repair for Beginners",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["CSS Grid Layout Tutorial", "JavaScript DOM Manipulation", "Frontend Frameworks"],
+      "new_tab": "React Native for Mobile Apps",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Mexican Cuisine Recipes", "Spicy Food Recipes"],
+      "new_tab": "World History Timeline",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Cold War History", "Industrial Revolution Facts", "History of Democracy", "Ancient Mayan Civilization", "World War II Battles"],
+      "new_tab": "Renaissance Art History",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Genetics and DNA Research", "Biology News 2025", "Cell Biology Basics"],
+      "new_tab": "Python Flask Tutorial",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Succulent Care Guide", "Orchid Growing Tips", "Bonsai Tree Care", "Indoor Plant Care"],
+      "new_tab": "Hydroponics Gardening Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["GraphQL API Tutorial", "REST vs GraphQL Comparison"],
+      "new_tab": "Baking Sourdough Bread",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["World War II Documentaries", "History of Ancient Rome", "Medieval Warfare", "Renaissance Literature", "Colonial America History"],
+      "new_tab": "Ancient Egypt History",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python for AI", "Machine Learning Concepts", "Deep Learning Basics", "TensorFlow Lite Guide"],
+      "new_tab": "AI Ethics Research",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Thai Cooking Recipes", "Curry Preparation Guide", "Asian Cuisine Tips"],
+      "new_tab": "French Dessert Recipes",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Astronomy for Beginners", "Star Constellations Guide", "Telescope Buying Tips", "Space Mission Updates"],
+      "new_tab": "Gardening with Native Plants",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Urban Gardening Trends", "Vertical Gardening Ideas", "Organic Fertilizers", "Container Gardening Guide"],
+      "new_tab": "Car Engine Repair Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["JavaScript Async Programming", "TypeScript Basics", "Node.js Tutorials", "React Component Design", "Vue.js Guide", "Frontend Optimization"],
+      "new_tab": "Angular Framework Tutorial",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Healthy Cooking Recipes", "Vegan Dessert Ideas"],
+      "new_tab": "Quantum Physics Research",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Greece Philosophy", "Roman Architecture", "History of Science", "Medieval Art History", "Renaissance Paintings"],
+      "new_tab": "World War I Overview",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Climate Science News", "Oceanography Research", "Renewable Energy Guide"],
+      "new_tab": "Web Development with Vue.js",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Vegetable Gardening Tips", "Soil Health Guide", "Companion Planting", "Herb Gardening Basics", "Organic Pest Control"],
+      "new_tab": "Flower Gardening Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python Web Scraping", "Beautiful Soup Tutorial"],
+      "new_tab": "Italian Pasta Recipes",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["World War I Battles", "Colonial History Facts", "Ancient Mesopotamia", "History of Ancient China", "Silk Road History"],
+      "new_tab": "Modern Diplomacy News",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["AI Ethics Research", "Machine Learning Bias", "Data Science Trends", "Deep Learning with PyTorch"],
+      "new_tab": "TensorFlow Optimization",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Baking Cakes Guide", "Dessert Decoration Tips", "Pastry Recipes"],
+      "new_tab": "Grilling Techniques",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Space Mission Updates", "Galactic Exploration News", "Astrophysics Research", "Mars Rover Updates", "Exoplanet Discoveries"],
+      "new_tab": "Urban Farming Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Organic Pest Control", "Gardening for Pollinators", "Compost Making Tips", "Indoor Herb Gardening"],
+      "new_tab": "Car Maintenance Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["React Redux Tutorial", "JavaScript Promises Guide", "Frontend Tips", "Vue.js Component Design"],
+      "new_tab": "Node.js Security Best Practices",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Healthy Meal Prep", "Vegan Dessert Recipes"],
+      "new_tab": "Quantum Mechanics Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Egypt History", "Roman Empire Artifacts", "Viking History", "Medieval Castles Guide", "Colonial America History", "Renaissance Art"],
+      "new_tab": "World War II Facts",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Genomics Research", "Cell Biology News", "Biochemistry Guide"],
+      "new_tab": "Python Django Tutorial",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Succulent Care Tips", "Indoor Herb Gardening", "Bonsai Growing", "Hydroponic Gardening", "Vegetable Planting Calendar"],
+      "new_tab": "Flower Gardening Basics",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["JavaScript ES6 Features", "React Hooks Tutorial"],
+      "new_tab": "Baking Bread Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["World War I Facts", "Colonial History", "Ancient Mesopotamia", "Renaissance Art", "Medieval Europe History"],
+      "new_tab": "History of Ancient China",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python for Data Science", "Machine Learning Basics", "Pandas Tutorial", "TensorFlow Guide", "Data Visualization with Matplotlib"],
+      "new_tab": "Deep Learning with Keras",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Italian Cooking Recipes", "Pasta Cooking Tips", "Dessert Recipes"],
+      "new_tab": "Sushi Making Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Astronomy News", "Star Constellations", "Space Mission Updates", "Telescope Buying Tips"],
+      "new_tab": "Gardening Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Urban Gardening Tips", "Organic Pest Control", "Vegetable Planting", "Composting Guide", "Indoor Plant Care", "Soil Health Tips"],
+      "new_tab": "Car Repair Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["JavaScript DOM Tutorial", "React Component Guide", "CSS Grid Tutorial", "Node.js API Development"],
+      "new_tab": "Vue.js Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Vegan Cooking Ideas", "Healthy Smoothie Guide"],
+      "new_tab": "Quantum Physics Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Greece History", "Roman Artifacts", "Medieval Europe", "World War II Facts", "Renaissance History", "Colonial Era Facts"],
+      "new_tab": "Ancient Egypt Artifacts",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Climate Science News", "Oceanography Research", "Renewable Energy"],
+      "new_tab": "Web Development with React",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Flower Gardening Tips", "Soil Preparation Guide", "Composting Tips", "Indoor Plant Guide", "Herb Gardening Basics"],
+      "new_tab": "Hydroponics Tutorial",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python Flask Tutorial", "REST API Design"],
+      "new_tab": "Italian Cooking Recipes",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Cold War History", "Industrial Revolution Facts", "Ancient Rome", "Medieval History Guide", "World War I Battles"],
+      "new_tab": "Renaissance Literature",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["AI Research Papers", "Machine Learning with Python", "Data Science Trends", "Deep Learning with PyTorch"],
+      "new_tab": "TensorFlow Model Optimization",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Baking Cakes Guide", "Dessert Decoration Tips", "Pastry Recipes"],
+      "new_tab": "Grilling BBQ Recipes",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Space Exploration News", "Mars Rover Updates", "Astrophysics Guide", "Exoplanet Research"],
+      "new_tab": "Urban Gardening Ideas",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Organic Gardening Guide", "Compost Making Tips", "Vegetable Planting", "Indoor Herb Gardening", "Gardening for Pollinators"],
+      "new_tab": "Car Maintenance Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["React Redux Guide", "JavaScript Promises Tutorial", "Frontend Tips", "Vue.js Component Design", "Node.js Security Best Practices"],
+      "new_tab": "Angular Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Healthy Meal Prep", "Vegan Dessert Recipes"],
+      "new_tab": "Quantum Mechanics Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Egypt History", "Roman Empire Artifacts", "Viking History", "Medieval Castles Guide", "Colonial America History"],
+      "new_tab": "Renaissance Art",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Genomics Research", "Cell Biology News", "Biochemistry Guide"],
+      "new_tab": "Python Django Tutorial",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Succulent Care Tips", "Indoor Herb Gardening", "Bonsai Growing", "Hydroponic Gardening"],
+      "new_tab": "Flower Gardening Basics",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["JavaScript ES6 Features", "React Hooks Tutorial"],
+      "new_tab": "Baking Bread Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["World War I Facts", "Colonial History", "Ancient Mesopotamia", "Renaissance Art", "Medieval Europe History"],
+      "new_tab": "History of Ancient China",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python for Data Science", "Machine Learning Basics", "Pandas Tutorial", "TensorFlow Guide"],
+      "new_tab": "Deep Learning with Keras",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Italian Cooking Recipes", "Pasta Cooking Tips", "Dessert Recipes"],
+      "new_tab": "Sushi Making Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Astronomy News", "Star Constellations", "Space Mission Updates", "Telescope Buying Tips"],
+      "new_tab": "Gardening Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Urban Gardening Tips", "Organic Pest Control", "Vegetable Planting", "Composting Guide", "Indoor Plant Care"],
+      "new_tab": "Car Repair Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["JavaScript DOM Tutorial", "React Component Guide", "CSS Grid Tutorial", "Node.js API Development"],
+      "new_tab": "Vue.js Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Vegan Cooking Ideas", "Healthy Smoothie Guide"],
+      "new_tab": "Quantum Physics Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Greece History", "Roman Artifacts", "Medieval Europe", "World War II Facts", "Renaissance History"],
+      "new_tab": "Ancient Egypt Artifacts",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Climate Science News", "Oceanography Research", "Renewable Energy"],
+      "new_tab": "Web Development with React",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Flower Gardening Tips", "Soil Preparation Guide", "Composting Tips", "Indoor Plant Guide"],
+      "new_tab": "Hydroponics Tutorial",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python Flask Tutorial", "REST API Design"],
+      "new_tab": "Italian Cooking Recipes",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Cold War History", "Industrial Revolution Facts", "Ancient Rome", "Medieval History Guide"],
+      "new_tab": "Renaissance Literature",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["AI Research Papers", "Machine Learning with Python", "Data Science Trends", "Deep Learning with PyTorch"],
+      "new_tab": "TensorFlow Model Optimization",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Baking Cakes Guide", "Dessert Decoration Tips", "Pastry Recipes"],
+      "new_tab": "Grilling BBQ Recipes",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Space Exploration News", "Mars Rover Updates", "Astrophysics Guide", "Exoplanet Research"],
+      "new_tab": "Urban Gardening Ideas",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Organic Gardening Guide", "Compost Making Tips", "Vegetable Planting", "Indoor Herb Gardening"],
+      "new_tab": "Car Maintenance Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["React Redux Guide", "JavaScript Promises Tutorial", "Frontend Tips", "Vue.js Component Design"],
+      "new_tab": "Angular Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Healthy Meal Prep", "Vegan Dessert Recipes"],
+      "new_tab": "Quantum Mechanics Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Egypt History", "Roman Empire Artifacts", "Viking History", "Medieval Castles Guide"],
+      "new_tab": "Renaissance Art",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Genomics Research", "Cell Biology News", "Biochemistry Guide"],
+      "new_tab": "Python Django Tutorial",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Succulent Care Tips", "Indoor Herb Gardening", "Bonsai Growing", "Hydroponic Gardening"],
+      "new_tab": "Flower Gardening Basics",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["JavaScript ES6 Features", "React Hooks Tutorial"],
+      "new_tab": "Baking Bread Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["World War I Facts", "Colonial History", "Ancient Mesopotamia", "Renaissance Art"],
+      "new_tab": "History of Ancient China",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python for Data Science", "Machine Learning Basics", "Pandas Tutorial", "TensorFlow Guide"],
+      "new_tab": "Deep Learning with Keras",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Italian Cooking Recipes", "Pasta Cooking Tips", "Dessert Recipes"],
+      "new_tab": "Sushi Making Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Astronomy News", "Star Constellations", "Space Mission Updates", "Telescope Buying Tips"],
+      "new_tab": "Gardening Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Urban Gardening Tips", "Organic Pest Control", "Vegetable Planting", "Composting Guide"],
+      "new_tab": "Car Repair Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["JavaScript DOM Tutorial", "React Component Guide", "CSS Grid Tutorial", "Node.js API Development"],
+      "new_tab": "Vue.js Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Vegan Cooking Ideas", "Healthy Smoothie Guide"],
+      "new_tab": "Quantum Physics Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Greece History", "Roman Artifacts", "Medieval Europe", "World War II Facts"],
+      "new_tab": "Ancient Egypt Artifacts",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Climate Science News", "Oceanography Research", "Renewable Energy"],
+      "new_tab": "Web Development with React",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Flower Gardening Tips", "Soil Preparation Guide", "Composting Tips", "Indoor Plant Guide"],
+      "new_tab": "Hydroponics Tutorial",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python Flask Tutorial", "REST API Design"],
+      "new_tab": "Italian Cooking Recipes",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Cold War History", "Industrial Revolution Facts", "Ancient Rome", "Medieval History Guide"],
+      "new_tab": "Renaissance Literature",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["AI Research Papers", "Machine Learning with Python", "Data Science Trends", "Deep Learning with PyTorch"],
+      "new_tab": "TensorFlow Model Optimization",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Baking Cakes Guide", "Dessert Decoration Tips", "Pastry Recipes"],
+      "new_tab": "Grilling BBQ Recipes",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Space Exploration News", "Mars Rover Updates", "Astrophysics Guide", "Exoplanet Research"],
+      "new_tab": "Urban Gardening Ideas",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Organic Gardening Guide", "Compost Making Tips", "Vegetable Planting", "Indoor Herb Gardening"],
+      "new_tab": "Car Maintenance Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["React Redux Guide", "JavaScript Promises Tutorial", "Frontend Tips", "Vue.js Component Design"],
+      "new_tab": "Angular Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Healthy Meal Prep", "Vegan Dessert Recipes"],
+      "new_tab": "Quantum Mechanics Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Egypt History", "Roman Empire Artifacts", "Viking History", "Medieval Castles Guide"],
+      "new_tab": "Renaissance Art",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Genomics Research", "Cell Biology News", "Biochemistry Guide"],
+      "new_tab": "Python Django Tutorial",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Succulent Care Tips", "Indoor Herb Gardening", "Bonsai Growing", "Hydroponic Gardening"],
+      "new_tab": "Flower Gardening Basics",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["JavaScript ES6 Features", "React Hooks Tutorial"],
+      "new_tab": "Baking Bread Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["World War I Facts", "Colonial History", "Ancient Mesopotamia", "Renaissance Art"],
+      "new_tab": "History of Ancient China",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python for Data Science", "Machine Learning Basics", "Pandas Tutorial", "TensorFlow Guide"],
+      "new_tab": "Deep Learning with Keras",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Italian Cooking Recipes", "Pasta Cooking Tips", "Dessert Recipes"],
+      "new_tab": "Sushi Making Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Astronomy News", "Star Constellations", "Space Mission Updates", "Telescope Buying Tips"],
+      "new_tab": "Gardening Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Urban Gardening Tips", "Organic Pest Control", "Vegetable Planting", "Composting Guide"],
+      "new_tab": "Car Repair Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["JavaScript DOM Tutorial", "React Component Guide", "CSS Grid Tutorial", "Node.js API Development"],
+      "new_tab": "Vue.js Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Vegan Cooking Ideas", "Healthy Smoothie Guide"],
+      "new_tab": "Quantum Physics Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Greece History", "Roman Artifacts", "Medieval Europe", "World War II Facts"],
+      "new_tab": "Ancient Egypt Artifacts",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Climate Science News", "Oceanography Research", "Renewable Energy"],
+      "new_tab": "Web Development with React",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Flower Gardening Tips", "Soil Preparation Guide", "Composting Tips", "Indoor Plant Guide"],
+      "new_tab": "Hydroponics Tutorial",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python Flask Tutorial", "REST API Design"],
+      "new_tab": "Italian Cooking Recipes",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Cold War History", "Industrial Revolution Facts", "Ancient Rome", "Medieval History Guide"],
+      "new_tab": "Renaissance Literature",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["AI Research Papers", "Machine Learning with Python", "Data Science Trends", "Deep Learning with PyTorch"],
+      "new_tab": "TensorFlow Model Optimization",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Baking Cakes Guide", "Dessert Decoration Tips", "Pastry Recipes"],
+      "new_tab": "Grilling BBQ Recipes",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Space Exploration News", "Mars Rover Updates", "Astrophysics Guide", "Exoplanet Research"],
+      "new_tab": "Urban Gardening Ideas",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Organic Gardening Guide", "Compost Making Tips", "Vegetable Planting", "Indoor Herb Gardening"],
+      "new_tab": "Car Maintenance Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["React Redux Guide", "JavaScript Promises Tutorial", "Frontend Tips", "Vue.js Component Design"],
+      "new_tab": "Angular Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Healthy Meal Prep", "Vegan Dessert Recipes"],
+      "new_tab": "Quantum Mechanics Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Egypt History", "Roman Empire Artifacts", "Viking History", "Medieval Castles Guide"],
+      "new_tab": "Renaissance Art",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Genomics Research", "Cell Biology News", "Biochemistry Guide"],
+      "new_tab": "Python Django Tutorial",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Succulent Care Tips", "Indoor Herb Gardening", "Bonsai Growing", "Hydroponic Gardening"],
+      "new_tab": "Flower Gardening Basics",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["JavaScript ES6 Features", "React Hooks Tutorial"],
+      "new_tab": "Baking Bread Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["World War I Facts", "Colonial History", "Ancient Mesopotamia", "Renaissance Art"],
+      "new_tab": "History of Ancient China",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python for Data Science", "Machine Learning Basics", "Pandas Tutorial", "TensorFlow Guide"],
+      "new_tab": "Deep Learning with Keras",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Italian Cooking Recipes", "Pasta Cooking Tips", "Dessert Recipes"],
+      "new_tab": "Sushi Making Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Astronomy News", "Star Constellations", "Space Mission Updates", "Telescope Buying Tips"],
+      "new_tab": "Gardening Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Urban Gardening Tips", "Organic Pest Control", "Vegetable Planting", "Composting Guide"],
+      "new_tab": "Car Repair Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["JavaScript DOM Tutorial", "React Component Guide", "CSS Grid Tutorial", "Node.js API Development"],
+      "new_tab": "Vue.js Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Vegan Cooking Ideas", "Healthy Smoothie Guide"],
+      "new_tab": "Quantum Physics Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Greece History", "Roman Artifacts", "Medieval Europe", "World War II Facts"],
+      "new_tab": "Ancient Egypt Artifacts",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Climate Science News", "Oceanography Research", "Renewable Energy"],
+      "new_tab": "Web Development with React",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Flower Gardening Tips", "Soil Preparation Guide", "Composting Tips", "Indoor Plant Guide"],
+      "new_tab": "Hydroponics Tutorial",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python Flask Tutorial", "REST API Design"],
+      "new_tab": "Italian Cooking Recipes",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Cold War History", "Industrial Revolution Facts", "Ancient Rome", "Medieval History Guide"],
+      "new_tab": "Renaissance Literature",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["AI Research Papers", "Machine Learning with Python", "Data Science Trends", "Deep Learning with PyTorch"],
+      "new_tab": "TensorFlow Model Optimization",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Baking Cakes Guide", "Dessert Decoration Tips", "Pastry Recipes"],
+      "new_tab": "Grilling BBQ Recipes",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Space Exploration News", "Mars Rover Updates", "Astrophysics Guide", "Exoplanet Research"],
+      "new_tab": "Urban Gardening Ideas",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Organic Gardening Guide", "Compost Making Tips", "Vegetable Planting", "Indoor Herb Gardening"],
+      "new_tab": "Car Maintenance Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["React Redux Guide", "JavaScript Promises Tutorial", "Frontend Tips", "Vue.js Component Design"],
+      "new_tab": "Angular Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Healthy Meal Prep", "Vegan Dessert Recipes"],
+      "new_tab": "Quantum Mechanics Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Egypt History", "Roman Empire Artifacts", "Viking History", "Medieval Castles Guide"],
+      "new_tab": "Renaissance Art",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Genomics Research", "Cell Biology News", "Biochemistry Guide"],
+      "new_tab": "Python Django Tutorial",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Succulent Care Tips", "Indoor Herb Gardening", "Bonsai Growing", "Hydroponic Gardening"],
+      "new_tab": "Flower Gardening Basics",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["JavaScript ES6 Features", "React Hooks Tutorial"],
+      "new_tab": "Baking Bread Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["World War I Facts", "Colonial History", "Ancient Mesopotamia", "Renaissance Art"],
+      "new_tab": "History of Ancient China",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python for Data Science", "Machine Learning Basics", "Pandas Tutorial", "TensorFlow Guide"],
+      "new_tab": "Deep Learning with Keras",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Italian Cooking Recipes", "Pasta Cooking Tips", "Dessert Recipes"],
+      "new_tab": "Sushi Making Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Astronomy News", "Star Constellations", "Space Mission Updates", "Telescope Buying Tips"],
+      "new_tab": "Gardening Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Urban Gardening Tips", "Organic Pest Control", "Vegetable Planting", "Composting Guide"],
+      "new_tab": "Car Repair Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["JavaScript DOM Tutorial", "React Component Guide", "CSS Grid Tutorial", "Node.js API Development"],
+      "new_tab": "Vue.js Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Vegan Cooking Ideas", "Healthy Smoothie Guide"],
+      "new_tab": "Quantum Physics Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Greece History", "Roman Artifacts", "Medieval Europe", "World War II Facts"],
+      "new_tab": "Ancient Egypt Artifacts",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Climate Science News", "Oceanography Research", "Renewable Energy"],
+      "new_tab": "Web Development with React",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Flower Gardening Tips", "Soil Preparation Guide", "Composting Tips", "Indoor Plant Guide"],
+      "new_tab": "Hydroponics Tutorial",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python Flask Tutorial", "REST API Design"],
+      "new_tab": "Italian Cooking Recipes",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Cold War History", "Industrial Revolution Facts", "Ancient Rome", "Medieval History Guide"],
+      "new_tab": "Renaissance Literature",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["AI Research Papers", "Machine Learning with Python", "Data Science Trends", "Deep Learning with PyTorch"],
+      "new_tab": "TensorFlow Model Optimization",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Baking Cakes Guide", "Dessert Decoration Tips", "Pastry Recipes"],
+      "new_tab": "Grilling BBQ Recipes",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Space Exploration News", "Mars Rover Updates", "Astrophysics Guide", "Exoplanet Research"],
+      "new_tab": "Urban Gardening Ideas",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Organic Gardening Guide", "Compost Making Tips", "Vegetable Planting", "Indoor Herb Gardening"],
+      "new_tab": "Car Maintenance Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["React Redux Guide", "JavaScript Promises Tutorial", "Frontend Tips", "Vue.js Component Design"],
+      "new_tab": "Angular Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Healthy Meal Prep", "Vegan Dessert Recipes"],
+      "new_tab": "Quantum Mechanics Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Egypt History", "Roman Empire Artifacts", "Viking History", "Medieval Castles Guide"],
+      "new_tab": "Renaissance Art",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Genomics Research", "Cell Biology News", "Biochemistry Guide"],
+      "new_tab": "Python Django Tutorial",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Succulent Care Tips", "Indoor Herb Gardening", "Bonsai Growing", "Hydroponic Gardening"],
+      "new_tab": "Flower Gardening Basics",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["JavaScript ES6 Features", "React Hooks Tutorial"],
+      "new_tab": "Baking Bread Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["World War I Facts", "Colonial History", "Ancient Mesopotamia", "Renaissance Art"],
+      "new_tab": "History of Ancient China",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python for Data Science", "Machine Learning Basics", "Pandas Tutorial", "TensorFlow Guide"],
+      "new_tab": "Deep Learning with Keras",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Italian Cooking Recipes", "Pasta Cooking Tips", "Dessert Recipes"],
+      "new_tab": "Sushi Making Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Astronomy News", "Star Constellations", "Space Mission Updates", "Telescope Buying Tips"],
+      "new_tab": "Gardening Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Urban Gardening Tips", "Organic Pest Control", "Vegetable Planting", "Composting Guide"],
+      "new_tab": "Car Repair Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["JavaScript DOM Tutorial", "React Component Guide", "CSS Grid Tutorial", "Node.js API Development"],
+      "new_tab": "Vue.js Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Vegan Cooking Ideas", "Healthy Smoothie Guide"],
+      "new_tab": "Quantum Physics Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Greece History", "Roman Artifacts", "Medieval Europe", "World War II Facts"],
+      "new_tab": "Ancient Egypt Artifacts",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Climate Science News", "Oceanography Research", "Renewable Energy"],
+      "new_tab": "Web Development with React",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Flower Gardening Tips", "Soil Preparation Guide", "Composting Tips", "Indoor Plant Guide"],
+      "new_tab": "Hydroponics Tutorial",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python Flask Tutorial", "REST API Design"],
+      "new_tab": "Italian Cooking Recipes",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Cold War History", "Industrial Revolution Facts", "Ancient Rome", "Medieval History Guide"],
+      "new_tab": "Renaissance Literature",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["AI Research Papers", "Machine Learning with Python", "Data Science Trends", "Deep Learning with PyTorch"],
+      "new_tab": "TensorFlow Model Optimization",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Baking Cakes Guide", "Dessert Decoration Tips", "Pastry Recipes"],
+      "new_tab": "Grilling BBQ Recipes",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Space Exploration News", "Mars Rover Updates", "Astrophysics Guide", "Exoplanet Research"],
+      "new_tab": "Urban Gardening Ideas",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Organic Gardening Guide", "Compost Making Tips", "Vegetable Planting", "Indoor Herb Gardening"],
+      "new_tab": "Car Maintenance Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["React Redux Guide", "JavaScript Promises Tutorial", "Frontend Tips", "Vue.js Component Design"],
+      "new_tab": "Angular Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Healthy Meal Prep", "Vegan Dessert Recipes"],
+      "new_tab": "Quantum Mechanics Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Egypt History", "Roman Empire Artifacts", "Viking History", "Medieval Castles Guide"],
+      "new_tab": "Renaissance Art",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Genomics Research", "Cell Biology News", "Biochemistry Guide"],
+      "new_tab": "Python Django Tutorial",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Succulent Care Tips", "Indoor Herb Gardening", "Bonsai Growing", "Hydroponic Gardening"],
+      "new_tab": "Flower Gardening Basics",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["JavaScript ES6 Features", "React Hooks Tutorial"],
+      "new_tab": "Baking Bread Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["World War I Facts", "Colonial History", "Ancient Mesopotamia", "Renaissance Art"],
+      "new_tab": "History of Ancient China",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python for Data Science", "Machine Learning Basics", "Pandas Tutorial", "TensorFlow Guide"],
+      "new_tab": "Deep Learning with Keras",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Italian Cooking Recipes", "Pasta Cooking Tips", "Dessert Recipes"],
+      "new_tab": "Sushi Making Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Astronomy News", "Star Constellations", "Space Mission Updates", "Telescope Buying Tips"],
+      "new_tab": "Gardening Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Urban Gardening Tips", "Organic Pest Control", "Vegetable Planting", "Composting Guide"],
+      "new_tab": "Car Repair Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["JavaScript DOM Tutorial", "React Component Guide", "CSS Grid Tutorial", "Node.js API Development"],
+      "new_tab": "Vue.js Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Vegan Cooking Ideas", "Healthy Smoothie Guide"],
+      "new_tab": "Quantum Physics Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Greece History", "Roman Artifacts", "Medieval Europe", "World War II Facts"],
+      "new_tab": "Ancient Egypt Artifacts",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Climate Science News", "Oceanography Research", "Renewable Energy"],
+      "new_tab": "Web Development with React",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Flower Gardening Tips", "Soil Preparation Guide", "Composting Tips", "Indoor Plant Guide"],
+      "new_tab": "Hydroponics Tutorial",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python Flask Tutorial", "REST API Design"],
+      "new_tab": "Italian Cooking Recipes",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Cold War History", "Industrial Revolution Facts", "Ancient Rome", "Medieval History Guide"],
+      "new_tab": "Renaissance Literature",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["AI Research Papers", "Machine Learning with Python", "Data Science Trends", "Deep Learning with PyTorch"],
+      "new_tab": "TensorFlow Model Optimization",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Baking Cakes Guide", "Dessert Decoration Tips", "Pastry Recipes"],
+      "new_tab": "Grilling BBQ Recipes",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Space Exploration News", "Mars Rover Updates", "Astrophysics Guide", "Exoplanet Research"],
+      "new_tab": "Urban Gardening Ideas",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Organic Gardening Guide", "Compost Making Tips", "Vegetable Planting", "Indoor Herb Gardening"],
+      "new_tab": "Car Maintenance Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["React Redux Guide", "JavaScript Promises Tutorial", "Frontend Tips", "Vue.js Component Design"],
+      "new_tab": "Angular Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Healthy Meal Prep", "Vegan Dessert Recipes"],
+      "new_tab": "Quantum Mechanics Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Egypt History", "Roman Empire Artifacts", "Viking History", "Medieval Castles Guide"],
+      "new_tab": "Renaissance Art",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Genomics Research", "Cell Biology News", "Biochemistry Guide"],
+      "new_tab": "Python Django Tutorial",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Succulent Care Tips", "Indoor Herb Gardening", "Bonsai Growing", "Hydroponic Gardening"],
+      "new_tab": "Flower Gardening Basics",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["JavaScript ES6 Features", "React Hooks Tutorial"],
+      "new_tab": "Baking Bread Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["World War I Facts", "Colonial History", "Ancient Mesopotamia", "Renaissance Art"],
+      "new_tab": "History of Ancient China",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python for Data Science", "Machine Learning Basics", "Pandas Tutorial", "TensorFlow Guide"],
+      "new_tab": "Deep Learning with Keras",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Italian Cooking Recipes", "Pasta Cooking Tips", "Dessert Recipes"],
+      "new_tab": "Sushi Making Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Astronomy News", "Star Constellations", "Space Mission Updates", "Telescope Buying Tips"],
+      "new_tab": "Gardening Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Urban Gardening Tips", "Organic Pest Control", "Vegetable Planting", "Composting Guide"],
+      "new_tab": "Car Repair Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["JavaScript DOM Tutorial", "React Component Guide", "CSS Grid Tutorial", "Node.js API Development"],
+      "new_tab": "Vue.js Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Vegan Cooking Ideas", "Healthy Smoothie Guide"],
+      "new_tab": "Quantum Physics Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Greece History", "Roman Artifacts", "Medieval Europe", "World War II Facts"],
+      "new_tab": "Ancient Egypt Artifacts",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Climate Science News", "Oceanography Research", "Renewable Energy"],
+      "new_tab": "Web Development with React",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Flower Gardening Tips", "Soil Preparation Guide", "Composting Tips", "Indoor Plant Guide"],
+      "new_tab": "Hydroponics Tutorial",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python Flask Tutorial", "REST API Design"],
+      "new_tab": "Italian Cooking Recipes",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Cold War History", "Industrial Revolution Facts", "Ancient Rome", "Medieval History Guide"],
+      "new_tab": "Renaissance Literature",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["AI Research Papers", "Machine Learning with Python", "Data Science Trends", "Deep Learning with PyTorch"],
+      "new_tab": "TensorFlow Model Optimization",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Baking Cakes Guide", "Dessert Decoration Tips", "Pastry Recipes"],
+      "new_tab": "Grilling BBQ Recipes",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Space Exploration News", "Mars Rover Updates", "Astrophysics Guide", "Exoplanet Research"],
+      "new_tab": "Urban Gardening Ideas",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Organic Gardening Guide", "Compost Making Tips", "Vegetable Planting", "Indoor Herb Gardening"],
+      "new_tab": "Car Maintenance Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["React Redux Guide", "JavaScript Promises Tutorial", "Frontend Tips", "Vue.js Component Design"],
+      "new_tab": "Angular Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Healthy Meal Prep", "Vegan Dessert Recipes"],
+      "new_tab": "Quantum Mechanics Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Egypt History", "Roman Empire Artifacts", "Viking History", "Medieval Castles Guide"],
+      "new_tab": "Renaissance Art",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Genomics Research", "Cell Biology News", "Biochemistry Guide"],
+      "new_tab": "Python Django Tutorial",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Succulent Care Tips", "Indoor Herb Gardening", "Bonsai Growing", "Hydroponic Gardening"],
+      "new_tab": "Flower Gardening Basics",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["JavaScript ES6 Features", "React Hooks Tutorial"],
+      "new_tab": "Baking Bread Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["World War I Facts", "Colonial History", "Ancient Mesopotamia", "Renaissance Art"],
+      "new_tab": "History of Ancient China",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python for Data Science", "Machine Learning Basics", "Pandas Tutorial", "TensorFlow Guide"],
+      "new_tab": "Deep Learning with Keras",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Italian Cooking Recipes", "Pasta Cooking Tips", "Dessert Recipes"],
+      "new_tab": "Sushi Making Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Astronomy News", "Star Constellations", "Space Mission Updates", "Telescope Buying Tips"],
+      "new_tab": "Gardening Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Urban Gardening Tips", "Organic Pest Control", "Vegetable Planting", "Composting Guide"],
+      "new_tab": "Car Repair Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["JavaScript DOM Tutorial", "React Component Guide", "CSS Grid Tutorial", "Node.js API Development"],
+      "new_tab": "Vue.js Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Vegan Cooking Ideas", "Healthy Smoothie Guide"],
+      "new_tab": "Quantum Physics Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Greece History", "Roman Artifacts", "Medieval Europe", "World War II Facts"],
+      "new_tab": "Ancient Egypt Artifacts",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Climate Science News", "Oceanography Research", "Renewable Energy"],
+      "new_tab": "Web Development with React",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Flower Gardening Tips", "Soil Preparation Guide", "Composting Tips", "Indoor Plant Guide"],
+      "new_tab": "Hydroponics Tutorial",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python Flask Tutorial", "REST API Design"],
+      "new_tab": "Italian Cooking Recipes",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Cold War History", "Industrial Revolution Facts", "Ancient Rome", "Medieval History Guide"],
+      "new_tab": "Renaissance Literature",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["AI Research Papers", "Machine Learning with Python", "Data Science Trends", "Deep Learning with PyTorch"],
+      "new_tab": "TensorFlow Model Optimization",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Baking Cakes Guide", "Dessert Decoration Tips", "Pastry Recipes"],
+      "new_tab": "Grilling BBQ Recipes",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Space Exploration News", "Mars Rover Updates", "Astrophysics Guide", "Exoplanet Research"],
+      "new_tab": "Urban Gardening Ideas",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Organic Gardening Guide", "Compost Making Tips", "Vegetable Planting", "Indoor Herb Gardening"],
+      "new_tab": "Car Maintenance Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["React Redux Guide", "JavaScript Promises Tutorial", "Frontend Tips", "Vue.js Component Design"],
+      "new_tab": "Angular Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Healthy Meal Prep", "Vegan Dessert Recipes"],
+      "new_tab": "Quantum Mechanics Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Egypt History", "Roman Empire Artifacts", "Viking History", "Medieval Castles Guide"],
+      "new_tab": "Renaissance Art",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Genomics Research", "Cell Biology News", "Biochemistry Guide"],
+      "new_tab": "Python Django Tutorial",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Succulent Care Tips", "Indoor Herb Gardening", "Bonsai Growing", "Hydroponic Gardening"],
+      "new_tab": "Flower Gardening Basics",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["JavaScript ES6 Features", "React Hooks Tutorial"],
+      "new_tab": "Baking Bread Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["World War I Facts", "Colonial History", "Ancient Mesopotamia", "Renaissance Art"],
+      "new_tab": "History of Ancient China",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python for Data Science", "Machine Learning Basics", "Pandas Tutorial", "TensorFlow Guide"],
+      "new_tab": "Deep Learning with Keras",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Italian Cooking Recipes", "Pasta Cooking Tips", "Dessert Recipes"],
+      "new_tab": "Sushi Making Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Astronomy News", "Star Constellations", "Space Mission Updates", "Telescope Buying Tips"],
+      "new_tab": "Gardening Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Urban Gardening Tips", "Organic Pest Control", "Vegetable Planting", "Composting Guide"],
+      "new_tab": "Car Repair Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["JavaScript DOM Tutorial", "React Component Guide", "CSS Grid Tutorial", "Node.js API Development"],
+      "new_tab": "Vue.js Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Vegan Cooking Ideas", "Healthy Smoothie Guide"],
+      "new_tab": "Quantum Physics Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Greece History", "Roman Artifacts", "Medieval Europe", "World War II Facts"],
+      "new_tab": "Ancient Egypt Artifacts",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Climate Science News", "Oceanography Research", "Renewable Energy"],
+      "new_tab": "Web Development with React",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Flower Gardening Tips", "Soil Preparation Guide", "Composting Tips", "Indoor Plant Guide"],
+      "new_tab": "Hydroponics Tutorial",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python Flask Tutorial", "REST API Design"],
+      "new_tab": "Italian Cooking Recipes",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Cold War History", "Industrial Revolution Facts", "Ancient Rome", "Medieval History Guide"],
+      "new_tab": "Renaissance Literature",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["AI Research Papers", "Machine Learning with Python", "Data Science Trends", "Deep Learning with PyTorch"],
+      "new_tab": "TensorFlow Model Optimization",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Baking Cakes Guide", "Dessert Decoration Tips", "Pastry Recipes"],
+      "new_tab": "Grilling BBQ Recipes",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Space Exploration News", "Mars Rover Updates", "Astrophysics Guide", "Exoplanet Research"],
+      "new_tab": "Urban Gardening Ideas",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Organic Gardening Guide", "Compost Making Tips", "Vegetable Planting", "Indoor Herb Gardening"],
+      "new_tab": "Car Maintenance Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["React Redux Guide", "JavaScript Promises Tutorial", "Frontend Tips", "Vue.js Component Design"],
+      "new_tab": "Angular Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Healthy Meal Prep", "Vegan Dessert Recipes"],
+      "new_tab": "Quantum Mechanics Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Egypt History", "Roman Empire Artifacts", "Viking History", "Medieval Castles Guide"],
+      "new_tab": "Renaissance Art",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Genomics Research", "Cell Biology News", "Biochemistry Guide"],
+      "new_tab": "Python Django Tutorial",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Succulent Care Tips", "Indoor Herb Gardening", "Bonsai Growing", "Hydroponic Gardening"],
+      "new_tab": "Flower Gardening Basics",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["JavaScript ES6 Features", "React Hooks Tutorial"],
+      "new_tab": "Baking Bread Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["World War I Facts", "Colonial History", "Ancient Mesopotamia", "Renaissance Art"],
+      "new_tab": "History of Ancient China",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python for Data Science", "Machine Learning Basics", "Pandas Tutorial", "TensorFlow Guide"],
+      "new_tab": "Deep Learning with Keras",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Italian Cooking Recipes", "Pasta Cooking Tips", "Dessert Recipes"],
+      "new_tab": "Sushi Making Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Astronomy News", "Star Constellations", "Space Mission Updates", "Telescope Buying Tips"],
+      "new_tab": "Gardening Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Urban Gardening Tips", "Organic Pest Control", "Vegetable Planting", "Composting Guide"],
+      "new_tab": "Car Repair Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["JavaScript DOM Tutorial", "React Component Guide", "CSS Grid Tutorial", "Node.js API Development"],
+      "new_tab": "Vue.js Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Vegan Cooking Ideas", "Healthy Smoothie Guide"],
+      "new_tab": "Quantum Physics Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Greece History", "Roman Artifacts", "Medieval Europe", "World War II Facts"],
+      "new_tab": "Ancient Egypt Artifacts",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Climate Science News", "Oceanography Research", "Renewable Energy"],
+      "new_tab": "Web Development with React",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Flower Gardening Tips", "Soil Preparation Guide", "Composting Tips", "Indoor Plant Guide"],
+      "new_tab": "Hydroponics Tutorial",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python Flask Tutorial", "REST API Design"],
+      "new_tab": "Italian Cooking Recipes",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Cold War History", "Industrial Revolution Facts", "Ancient Rome", "Medieval History Guide"],
+      "new_tab": "Renaissance Literature",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["AI Research Papers", "Machine Learning with Python", "Data Science Trends", "Deep Learning with PyTorch"],
+      "new_tab": "TensorFlow Model Optimization",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Baking Cakes Guide", "Dessert Decoration Tips", "Pastry Recipes"],
+      "new_tab": "Grilling BBQ Recipes",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Space Exploration News", "Mars Rover Updates", "Astrophysics Guide", "Exoplanet Research"],
+      "new_tab": "Urban Gardening Ideas",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Organic Gardening Guide", "Compost Making Tips", "Vegetable Planting", "Indoor Herb Gardening"],
+      "new_tab": "Car Maintenance Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["React Redux Guide", "JavaScript Promises Tutorial", "Frontend Tips", "Vue.js Component Design"],
+      "new_tab": "Angular Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Healthy Meal Prep", "Vegan Dessert Recipes"],
+      "new_tab": "Quantum Mechanics Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Egypt History", "Roman Empire Artifacts", "Viking History", "Medieval Castles Guide"],
+      "new_tab": "Renaissance Art",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Genomics Research", "Cell Biology News", "Biochemistry Guide"],
+      "new_tab": "Python Django Tutorial",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Succulent Care Tips", "Indoor Herb Gardening", "Bonsai Growing", "Hydroponic Gardening"],
+      "new_tab": "Flower Gardening Basics",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["JavaScript ES6 Features", "React Hooks Tutorial"],
+      "new_tab": "Baking Bread Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["World War I Facts", "Colonial History", "Ancient Mesopotamia", "Renaissance Art"],
+      "new_tab": "History of Ancient China",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python for Data Science", "Machine Learning Basics", "Pandas Tutorial", "TensorFlow Guide"],
+      "new_tab": "Deep Learning with Keras",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Italian Cooking Recipes", "Pasta Cooking Tips", "Dessert Recipes"],
+      "new_tab": "Sushi Making Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Astronomy News", "Star Constellations", "Space Mission Updates", "Telescope Buying Tips"],
+      "new_tab": "Gardening Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Urban Gardening Tips", "Organic Pest Control", "Vegetable Planting", "Composting Guide"],
+      "new_tab": "Car Repair Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["JavaScript DOM Tutorial", "React Component Guide", "CSS Grid Tutorial", "Node.js API Development"],
+      "new_tab": "Vue.js Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Vegan Cooking Ideas", "Healthy Smoothie Guide"],
+      "new_tab": "Quantum Physics Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Greece History", "Roman Artifacts", "Medieval Europe", "World War II Facts"],
+      "new_tab": "Ancient Egypt Artifacts",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Climate Science News", "Oceanography Research", "Renewable Energy"],
+      "new_tab": "Web Development with React",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Flower Gardening Tips", "Soil Preparation Guide", "Composting Tips", "Indoor Plant Guide"],
+      "new_tab": "Hydroponics Tutorial",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python Flask Tutorial", "REST API Design"],
+      "new_tab": "Italian Cooking Recipes",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Cold War History", "Industrial Revolution Facts", "Ancient Rome", "Medieval History Guide"],
+      "new_tab": "Renaissance Literature",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["AI Research Papers", "Machine Learning with Python", "Data Science Trends", "Deep Learning with PyTorch"],
+      "new_tab": "TensorFlow Model Optimization",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Baking Cakes Guide", "Dessert Decoration Tips", "Pastry Recipes"],
+      "new_tab": "Grilling BBQ Recipes",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Space Exploration News", "Mars Rover Updates", "Astrophysics Guide", "Exoplanet Research"],
+      "new_tab": "Urban Gardening Ideas",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Organic Gardening Guide", "Compost Making Tips", "Vegetable Planting", "Indoor Herb Gardening"],
+      "new_tab": "Car Maintenance Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["React Redux Guide", "JavaScript Promises Tutorial", "Frontend Tips", "Vue.js Component Design"],
+      "new_tab": "Angular Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Healthy Meal Prep", "Vegan Dessert Recipes"],
+      "new_tab": "Quantum Mechanics Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Egypt History", "Roman Empire Artifacts", "Viking History", "Medieval Castles Guide"],
+      "new_tab": "Renaissance Art",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Genomics Research", "Cell Biology News", "Biochemistry Guide"],
+      "new_tab": "Python Django Tutorial",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Succulent Care Tips", "Indoor Herb Gardening", "Bonsai Growing", "Hydroponic Gardening"],
+      "new_tab": "Flower Gardening Basics",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["JavaScript ES6 Features", "React Hooks Tutorial"],
+      "new_tab": "Baking Bread Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["World War I Facts", "Colonial History", "Ancient Mesopotamia", "Renaissance Art"],
+      "new_tab": "History of Ancient China",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python for Data Science", "Machine Learning Basics", "Pandas Tutorial", "TensorFlow Guide"],
+      "new_tab": "Deep Learning with Keras",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Italian Cooking Recipes", "Pasta Cooking Tips", "Dessert Recipes"],
+      "new_tab": "Sushi Making Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Astronomy News", "Star Constellations", "Space Mission Updates", "Telescope Buying Tips"],
+      "new_tab": "Gardening Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Urban Gardening Tips", "Organic Pest Control", "Vegetable Planting", "Composting Guide"],
+      "new_tab": "Car Repair Guide",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["JavaScript DOM Tutorial", "React Component Guide", "CSS Grid Tutorial", "Node.js API Development"],
+      "new_tab": "Vue.js Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Vegan Cooking Ideas", "Healthy Smoothie Guide"],
+      "new_tab": "Quantum Physics Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Ancient Greece History", "Roman Artifacts", "Medieval Europe", "World War II Facts"],
+      "new_tab": "Ancient Egypt Artifacts",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Climate Science News", "Oceanography Research", "Renewable Energy"],
+      "new_tab": "Web Development with React",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Flower Gardening Tips", "Soil Preparation Guide", "Composting Tips", "Indoor Plant Guide"],
+      "new_tab": "Hydroponics Tutorial",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Python Flask Tutorial", "REST API Design"],
+      "new_tab": "Italian Cooking Recipes",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Cold War History", "Industrial Revolution Facts", "Ancient Rome", "Medieval History Guide"],
+      "new_tab": "Renaissance Literature",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["AI Research Papers", "Machine Learning with Python", "Data Science Trends", "Deep Learning with PyTorch"],
+      "new_tab": "TensorFlow Model Optimization",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Baking Cakes Guide", "Dessert Decoration Tips", "Pastry Recipes"],
+      "new_tab": "Grilling BBQ Recipes",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Space Exploration News", "Mars Rover Updates", "Astrophysics Guide", "Exoplanet Research"],
+      "new_tab": "Urban Gardening Ideas",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["Organic Gardening Guide", "Compost Making Tips", "Vegetable Planting", "Indoor Herb Gardening"],
+      "new_tab": "Car Maintenance Basics",
+      "alignment": 0
+    },
+    {
+      "opened_tabs": ["React Redux Guide", "JavaScript Promises Tutorial", "Frontend Tips", "Vue.js Component Design"],
+      "new_tab": "Angular Framework Guide",
+      "alignment": 1
+    },
+    {
+      "opened_tabs": ["Healthy Meal Prep", "Vegan Dessert Recipes"],
+      "new_tab": "Quantum Mechanics Guide",
+      "alignment": 0
+    }
+  ]
+}
