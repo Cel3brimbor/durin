@@ -950,13 +950,54 @@ def save_txt(dataset: dict, filename: str) -> None:
     print(f"BERT TSV saved to {filename}")
 
 
-def save_json(dataset: dict, filename: str) -> None:
+def sample_quality_check(data: list[dict], fraction: float, seed: int) -> list[dict]:
+    """Keep a stratified ~2% slice so both labels show up in the QA file."""
+    rng = random.Random(seed)
+    by_label = {0: [], 1: []}
+    for row in data:
+        by_label[int(row["alignment"])].append(row)
+    sample = []
+    for group in by_label.values():
+        if not group:
+            continue
+        k = max(1, int(round(len(group) * fraction)))
+        sample.extend(rng.sample(group, min(k, len(group))))
+    rng.shuffle(sample)
+    return sample
+
+
+def save_quality_check(dataset: dict, filename: str, fraction: float, seed: int) -> None:
     output_dir = os.path.dirname(filename)
     if output_dir:
         os.makedirs(output_dir, exist_ok=True)
+    rows = []
+    for row in sample_quality_check(dataset["data"], fraction=fraction, seed=seed):
+        item = dict(row)
+        item["text"] = serialize_for_bert(row["opened_tabs"], row["new_tab"])
+        rows.append(item)
+    payload = {"fraction": fraction, "count": len(rows), "data": rows}
     with open(filename, "w", encoding="utf-8") as handle:
-        json.dump(dataset, handle, indent=2)
-    print(f"JSON saved to {filename}")
+        json.dump(payload, handle, indent=2)
+    print(f"Quality-check JSON saved to {filename} ({len(rows)} examples, {fraction:.0%} sample)")
+
+
+def parse_tsv_line(line: str) -> dict:
+    text, label = line.rstrip("\n").split("\t", 1)
+    new_part, tabs_part = text.split(" || ", 1)
+    new_tab = new_part[len("New: "):] if new_part.startswith("New: ") else new_part
+    opened_tabs = [tab for tab in tabs_part.split(" | ") if tab]
+    return {
+        "opened_tabs": opened_tabs,
+        "new_tab": new_tab,
+        "alignment": int(label),
+        "text": text,
+    }
+
+
+def quality_check_from_txt(txt_path: str, json_path: str, fraction: float, seed: int) -> None:
+    with open(txt_path, encoding="utf-8") as handle:
+        data = [parse_tsv_line(line) for line in handle if line.strip()]
+    save_quality_check({"data": data}, json_path, fraction=fraction, seed=seed)
 
 
 def parse_args() -> argparse.Namespace:
@@ -964,9 +1005,20 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("-n", "--num-examples", type=int, default=25000, help="Number of examples to generate")
     parser.add_argument("--txt", default=str(HERE / "general_dataset.txt"), help="Output TSV path for BERT")
     parser.add_argument(
-        "--json",
-        default=str(HERE / "general_dataset.json"),
-        help="JSON path (physics/STEM schema plus score). Pass empty string to skip.",
+        "--quality-check",
+        default=str(HERE / "quality_check.json"),
+        help="Small JSON sample for manual inspection. Pass empty string to skip.",
+    )
+    parser.add_argument(
+        "--quality-check-fraction",
+        type=float,
+        default=0.01,
+        help="Fraction of examples to write into the quality-check JSON.",
+    )
+    parser.add_argument(
+        "--from-txt",
+        default="",
+        help="If set, sample a quality-check JSON from an existing TSV instead of generating.",
     )
     parser.add_argument("--seed", type=int, default=42, help="RNG seed")
     return parser.parse_args()
@@ -975,10 +1027,15 @@ def parse_args() -> argparse.Namespace:
 def main() -> None:
     args = parse_args()
     random.seed(args.seed)
+    if args.from_txt:
+        if not args.quality_check:
+            raise SystemExit("--quality-check path is required when using --from-txt")
+        quality_check_from_txt(args.from_txt, args.quality_check, args.quality_check_fraction, args.seed)
+        return
     dataset = generate_dataset(args.num_examples)
     save_txt(dataset, args.txt)
-    if args.json:
-        save_json(dataset, args.json)
+    if args.quality_check:
+        save_quality_check(dataset, args.quality_check, args.quality_check_fraction, args.seed)
 
 
 if __name__ == "__main__":
