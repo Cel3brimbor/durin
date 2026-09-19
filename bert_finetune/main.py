@@ -97,10 +97,16 @@ tokenizer.save_pretrained(OUTPUT_DIR)
 
 print("Initiating hugging face optimum compilation pipeline for browser deployment...")
 try:
-    import optimum
-    # Using O2 optimization tags tells Optimum to explicitly output a browser-ready quantized web format
-    os.system(f"optimum-cli export onnx --model {OUTPUT_DIR} --optimize O2 {ONNX_DIR}")
-    print(f"Successful. Drop the optimized binary folders from '{ONNX_DIR}' straight into your Chrome Extension directory.")
+    import optimum  # noqa: F401
+    export_cmd = (
+        f"optimum-cli export onnx --model {OUTPUT_DIR} "
+        f"--task text-classification --optimize O2 {ONNX_DIR}"
+    )
+    exit_code = os.system(export_cmd)
+    if exit_code == 0:
+        print(f"Successful. Drop the optimized binary folders from '{ONNX_DIR}' straight into your Chrome Extension directory.")
+    else:
+        print(f"ONNX export failed with exit code {exit_code}. PyTorch weights are still in '{OUTPUT_DIR}'.")
 except ImportError:
     print("\n'optimum' library not installed. Native weights are saved.")
     print("To compile to browser-ready ONNX weights, run: pip install optimum[onnxruntime]")

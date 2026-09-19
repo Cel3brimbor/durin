@@ -1,2 +1,7 @@
 /.venv/
 /large_datasets/
+/onnx_browser_model/
+/general_model/
+__pycache__/
+*.pyc
+.DS_Store
