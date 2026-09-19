@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Durin lists</title>
+    <link rel="stylesheet" href="common.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <h1>Durin MiniLM lists</h1>
+      <p class="lede">
+        Blacklisted URLs and domains are always blocked. Whitelisted ones are always allowed.
+        The same entry cannot be on both lists. Everything else is scored by MiniLM title
+        embeddings after four other open tabs exist in the window.
+      </p>
+      <div class="grid-2">
+        <section class="card stack">
+          <h2>Blacklist</h2>
+          <form id="blacklist-form" class="stack">
+            <input type="text" id="blacklist-input" placeholder="youtube.com or https://example.com/path" />
+            <button class="danger" type="submit">Add to blacklist</button>
+          </form>
+          <p class="status" id="blacklist-status"></p>
+          <ul class="list" id="blacklist"></ul>
+        </section>
+        <section class="card stack">
+          <h2>Whitelist</h2>
+          <form id="whitelist-form" class="stack">
+            <input type="text" id="whitelist-input" placeholder="khanacademy.org or a full URL" />
+            <button class="ok" type="submit">Add to whitelist</button>
+          </form>
+          <p class="status" id="whitelist-status"></p>
+          <ul class="list" id="whitelist"></ul>
+        </section>
+      </div>
+    </main>
+    <script type="module" src="options.js"></script>
+  </body>
+</html>

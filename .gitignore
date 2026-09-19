@@ -4,6 +4,8 @@
 /general_model/
 /chrome_extension/model/
 /chrome_extension/node_modules/
+/chrome_extension_2/model/
+/chrome_extension_2/node_modules/
 __pycache__/
 *.pyc
 .DS_Store
