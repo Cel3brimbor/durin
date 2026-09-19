@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Durin</title>
+    <link rel="stylesheet" href="common.css" />
+    <style>
+      html,
+      body {
+        width: 360px;
+      }
+      .shell {
+        padding: 16px;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="shell stack">
+      <div>
+        <h1>Durin</h1>
+        <p class="lede">Always block or always allow this tab. Lists override the model.</p>
+      </div>
+      <section class="card stack">
+        <p class="muted">Current page</p>
+        <p class="url" id="current-url">Loading…</p>
+        <p class="status" id="membership"></p>
+        <div class="row">
+          <button class="danger" id="block-url">Block URL</button>
+          <button class="danger" id="block-domain">Block domain</button>
+        </div>
+        <div class="row">
+          <button class="ok" id="allow-url">Allow URL</button>
+          <button class="ok" id="allow-domain">Allow domain</button>
+        </div>
+        <p class="status" id="status"></p>
+      </section>
+      <button class="ghost" id="open-options">Manage lists</button>
+    </main>
+    <script type="module" src="popup.js"></script>
+  </body>
+</html>

@@ -2,6 +2,9 @@
 /large_datasets/
 /onnx_browser_model/
 /general_model/
+/chrome_extension/model/
+/chrome_extension/node_modules/
 __pycache__/
 *.pyc
 .DS_Store
+/.cursor/
