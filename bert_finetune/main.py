@@ -1,7 +1,7 @@
 import os
 import torch
 import numpy as np
-from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trainer, TrainingArguments
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trainer, TrainingArguments, TrainerCallback
 from datasets import load_dataset
 import evaluate
 
@@ -16,7 +16,7 @@ else:
 
 MODEL_NAME = "distilbert-base-uncased"  # 6 layers, 768 hidden dimensions (~66M params)
 DATASET_PATH = "data_creator/general/general_dataset.txt"
-OUTPUT_DIR = "./pytorch_distilbert_model"
+OUTPUT_DIR = "./general_model"
 ONNX_DIR = "./onnx_browser_model"
 
 
@@ -40,11 +40,17 @@ model.to(device) #push model weights to unified memory
 
 #eval
 accuracy_metric = evaluate.load("accuracy")
+NUM_EPOCHS = 4
 
 def compute_metrics(eval_pred):
     logits, labels = eval_pred
     predictions = np.argmax(logits, axis=-1)
     return accuracy_metric.compute(predictions=predictions, references=labels)
+
+class AccuracyPrinter(TrainerCallback):
+    def on_evaluate(self, args, state, control, metrics=None, **kwargs):
+        if metrics and "eval_accuracy" in metrics:
+            print(f"\nEpoch {state.epoch:.2f} eval accuracy: {metrics['eval_accuracy']:.4f}\n")
 
 #fine tuning params
 training_args = TrainingArguments(
@@ -54,12 +60,13 @@ training_args = TrainingArguments(
     learning_rate=3e-5,
     per_device_train_batch_size=16,
     per_device_eval_batch_size=16,
-    num_train_epochs=4,
+    num_train_epochs=NUM_EPOCHS,
     weight_decay=0.01,
     logging_steps=5,
     load_best_model_at_end=True,
+    metric_for_best_model="eval_accuracy",
+    greater_is_better=True,
     use_cpu=False if torch.backends.mps.is_available() else True,
-    #logging_steps=1,
     disable_tqdm=False,
     report_to="none",
 )
@@ -70,10 +77,19 @@ trainer = Trainer(
     train_dataset=tokenized_datasets["train"],
     eval_dataset=tokenized_datasets["test"],
     compute_metrics=compute_metrics,
+    callbacks=[AccuracyPrinter()],
 )
 
-print("Launching local pytorch neural network training runtime...")
+print(f"Launching training for {NUM_EPOCHS} epochs. Accuracy is reported after each epoch.")
 trainer.train()
+
+print("\nAccuracy by epoch:")
+for entry in trainer.state.log_history:
+    if "eval_accuracy" in entry:
+        print(f"  epoch {entry.get('epoch', '?'):.0f}: {entry['eval_accuracy']:.4f}")
+
+final_metrics = trainer.evaluate()
+print(f"\nFinal eval accuracy: {final_metrics.get('eval_accuracy', float('nan')):.4f}")
 
 print(f"Exporting trained PyTorch configurations to: {OUTPUT_DIR}")
 model.save_pretrained(OUTPUT_DIR)
