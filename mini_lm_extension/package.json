@@ -1,0 +1,13 @@
+{
+  "name": "durin-chrome-extension-minilm",
+  "private": true,
+  "description": "Vendored ONNX Runtime for the Durin MiniLM tab blocker",
+  "type": "module",
+  "scripts": {
+    "copy-model": "python3 ../bert_finetune/export_minilm.py --out model",
+    "copy-ort": "mkdir -p lib && cp node_modules/onnxruntime-web/dist/ort.wasm.min.mjs lib/ && cp node_modules/onnxruntime-web/dist/ort-wasm-simd-threaded.wasm lib/ && cp node_modules/onnxruntime-web/dist/ort-wasm-simd-threaded.mjs lib/"
+  },
+  "dependencies": {
+    "onnxruntime-web": "^1.23.0"
+  }
+}
