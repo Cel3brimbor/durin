@@ -10,6 +10,7 @@ node_modules/
 /large_datasets/
 /onnx_browser_model/
 /general_model/
+bert_extension/model/model.onnx
 
 .DS_Store
 .cursor/
